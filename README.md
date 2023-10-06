@@ -50,7 +50,6 @@ and the DatabaseTier ensures a comprehensive repository for joke storage and ret
 Developed as a web-based application, it's built on a multi-tier architecture and leverages AWS resources for efficient storage and retrieval 
 of images. The platform ensures a user-friendly interface and smooth navigation, allowing users to easily upload and access shared images. 
 With a focus on security and performance, it offers a reliable and intuitive image-sharing experience.
-https://www.microsoft.com/en-gb
 
 ## 🔧 Key Skills
 
@@ -65,8 +64,8 @@ https://www.microsoft.com/en-gb
 - Jenkins <a href="https://www.jenkins.io/" title="jenkins"><img src="jenkins.png" /></a>
 - CI/CD pipeline
 ### **Cloud Platforms**:
-- AWS <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
-- Azure <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
+- AWS <a href="https://aws.amazon.com/" title="aws"><img src="aws.png" /></a>
+- Azure <a href="https://azure.microsoft.com/en-us" title="azure"><img src="azure.png" /></a>
 ### **Infrastructure as Code & Automation**:
 - Terraform <a href="https://www.terraform.io/" title="terraform"><img src="terraform.png" /></a>
 - Ansible <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
