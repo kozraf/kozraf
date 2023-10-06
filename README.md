@@ -17,14 +17,18 @@ Since 2019, I've been a dedicated member of Linux Academy / A Cloud Guru, ensuri
 ## What you'll find here?
 
 Originally, my GitHub account was initiated with the intent to script a deployment for a 3-node K8 cluster on VirtualBox VMs using HashiCorp Vagrant. 
-This vision has since evolved into projects like [RafK8clstr](#), 
+This vision has since evolved into projects like [RafK8clstr](https://github.com/kozraf/RafK8clstr), 
 which extends beyond just cluster deployment to integrating software like ArgoCD and Jenkins_with_Terraform running as K8 pods and others. 
 
 ## 🔭 Projects
 
-- [RafK8clstr](#): A robust solution for setting up a 3-node Kubernetes cluster, equipped with cutting-edge add-ons, using Vagrant and VirtualBox.
-- [Jenkins with Terraform on Kubernetes](#): Seamlessly deploy Jenkins integrated with Terraform on a Kubernetes cluster.
-
+- [RafK8clstr](#): **RafK8clstr** offers a streamlined approach to establishing a 3-node Kubernetes cluster enriched with a range of add-ons and features, such as the Metrics Server and NFS shared storage. The project seamlessly integrates Vagrant and VirtualBox for local VM provisioning, and boasts an array of scripts to simplify the setup process. A unique aspect of this project is its "wrapper" (setup.bat file) which not only manages Vagrant but also permits the deployment of various DevOps components from associated repositories - such as Jenkins_with_Terrafform / ArgoCD / Grafana & Prometheus etc.
+- [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF): Deploy Jenkins integrated with Terraform on a Kubernetes cluster.
+- [ArgoCD Kubernetes Setup](https://github.com/kozraf/ArgoCD): This repository focuses on facilitating the setup of ArgoCD on a Kubernetes cluster. ArgoCD, a declarative, GitOps continuous delivery tool for Kubernetes, empowers users to manage Kubernetes resources with git repositories as the primary source of truth. The project offers:
+  - **Easy Deployment**: Streamlined setup of ArgoCD.
+  - **Helm Integration**: Deployment via the Helm package manager.
+  - **Customization**: Inclusive of custom values for tailored deployment.
+  - **Isolation**: Dedicated namespace for ArgoCD ensuring enhanced security.
 
 ## 🔧 Key Skills
 
@@ -75,9 +79,6 @@ which extends beyond just cluster deployment to integrating software like ArgoCD
 - VMware vSphere: Install, Configure, Manage [V4.0]     
 
 💼 Exploring collaboration or seeking expertise in DevOps? **Feel free to reach out!**
-
-
-
 
 
 <!--
