@@ -50,31 +50,29 @@ and the DatabaseTier ensures a comprehensive repository for joke storage and ret
 Developed as a web-based application, it's built on a multi-tier architecture and leverages AWS resources for efficient storage and retrieval 
 of images. The platform ensures a user-friendly interface and smooth navigation, allowing users to easily upload and access shared images. 
 With a focus on security and performance, it offers a reliable and intuitive image-sharing experience.
-
+https://www.microsoft.com/en-gb
 
 ## 🔧 Key Skills
 
 ### **Operating Systems**
-- Windows / Linux
+- Windows <a href="https://www.microsoft.com/en-gb" title="microsoft"><img src="microsoft.png" /></a>
+- Linux <a href="https://www.linux.com/" title="linux"><img src="linux.png" /></a>
 ### **DevOps/SRE/Platform Engineering**:
 - Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="k8.png" /></a>
 - Docker <a href="https://www.docker.com/" title="Docker"><img src="docker.png" /></a>
 - ArghoCD <a href="https://argo-cd.readthedocs.io/" title="argo-cd"><img src="argocd.png" /></a>
 - Helm <a href="https://helm.sh/" title="helm"><img src="helm.png" /></a>
-- Terraform
-- Ansible
-- Jenkins
-- Git
-- CI/CD pipelines
+- Jenkins <a href="https://www.jenkins.io/" title="jenkins"><img src="jenkins.png" /></a>
+- CI/CD pipeline
 ### **Cloud Platforms**:
-- AWS
-- Azure
+- AWS <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
+- Azure <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
 ### **Infrastructure as Code & Automation**:
-- Terraform
-- Ansible 
-- **Scripting**:
-- Powershell
-- Bash
+- Terraform <a href="https://www.terraform.io/" title="terraform"><img src="terraform.png" /></a>
+- Ansible <a href="https://www.ansible.com/" title="ansible"><img src="ansible.png" /></a>
+### **Scripting**:
+- Powershell <a href="https://learn.microsoft.com/en-us/powershell/" title="powershell"><img src="powershell.png" /></a>
+- Bash <a href="https://www.gnu.org/software/bash/" title="bash"><img src="bash.png" /></a>
 - Python <a href="https://www.python.org/" title="python"><img src="python.png" /></a>
 
 ## 🎓 Certifications & Courses
