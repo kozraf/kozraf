@@ -54,7 +54,7 @@ With a focus on security and performance, it offers a reliable and intuitive ima
 
 ## 🔧 Key Skills
 
-- **Operating Systems**
+###- **Operating Systems**
 - Windows / Linux
 - **DevOps/SRE/Platform Engineering**:
 - Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="k8.png" /></a>
@@ -66,10 +66,10 @@ With a focus on security and performance, it offers a reliable and intuitive ima
 - Jenkins
 - Git
 - CI/CD pipelines
-- **Cloud Platforms**:
+###- **Cloud Platforms**:
 - AWS
 - Azure
-- **Infrastructure as Code & Automation**:
+###- **Infrastructure as Code & Automation**:
 - Terraform
 - Ansible 
 - **Scripting**:
