@@ -12,6 +12,10 @@ embracing the challenges and innovations these domains offer.
 My expertise stretches from traditional Virtualisation and Cloud platforms to modern CI/CD pipelines, 
 container orchestration, and IaC (Infrastructure as Code) practices.
 
+"**True learning often stems from deconstructing complex structures to understand their intricacies and then thoroughly rebuilding them. 
+This philosophy drives my passion for creating these projects/repositories, allowing me to delve deep into technology, further enriching my understanding of DevOps, CI/CD approaches, and more.**"
+
+
 Since 2019, I've been a dedicated member of Linux Academy / A Cloud Guru, ensuring I consistently enhance and stay updated with my skills
 
 ## What you'll find here?
@@ -22,9 +26,13 @@ which extends beyond just cluster deployment to integrating software like ArgoCD
 
 ## 🔭 Projects
 
-- [RafK8clstr](#): **RafK8clstr** offers a streamlined approach to establishing a 3-node Kubernetes cluster enriched with a range of add-ons and features, such as the Metrics Server and NFS shared storage. The project seamlessly integrates Vagrant and VirtualBox for local VM provisioning, and boasts an array of scripts to simplify the setup process. A unique aspect of this project is its "wrapper" (setup.bat file) which not only manages Vagrant but also permits the deployment of various DevOps components from associated repositories - such as Jenkins_with_Terrafform / ArgoCD / Grafana & Prometheus etc.
+- [RafK8clstr](#): **RafK8clstr** offers a streamlined approach to establishing a 3-node Kubernetes cluster enriched with a range of add-ons
+and features, such as the K8 Metrics Server, K8 Dashboard and NFS shared storage. 
+The project seamlessly integrates Vagrant and VirtualBox for local VM provisioning and boasts an array of scripts to simplify the setup process.
+A unique aspect of this project is its "wrapper" (setup.bat/setup.sh files) which not only manages Vagrant but also permits the deployment of various 
+DevOps components from my associated repositories - such as Jenkins_with_Terrafform / ArgoCD / Grafana & Prometheus etc.
 - [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF): Deploy Jenkins integrated with Terraform on a Kubernetes cluster.
-- [TFstate_secure](#) If you require a Terraform remote backend that utilizes AWS S3 + DynamoDB, look no further! All you need is Jenkins with Terraform installed. If you don't have one, please check out my [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF) !
+- [TFstate_secure](https://github.com/kozraf/TFstate_secure) If you require a Terraform remote backend that utilizes AWS S3 + DynamoDB, look no further! All you need is Jenkins with Terraform installed. If you don't have one, please check out my [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF) !
 - [ArgoCD](https://github.com/kozraf/ArgoCD): This repository focuses on facilitating the setup of ArgoCD on a Kubernetes cluster. ArgoCD, a declarative, GitOps continuous delivery tool for Kubernetes, empowers users to manage Kubernetes resources with git repositories as the primary source of truth. The project offers:
   - **Easy Deployment**: Streamlined setup of ArgoCD.
   - **Helm Integration**: Deployment via the Helm package manager.
@@ -38,6 +46,10 @@ An automated setup process and defined persistent volumes further enhance the us
 - [TellMeJoke Application](https://github.com/kozraf/TellMeJoke): The TellMeJoke application is a little fun project of mine - a web platform built on a three-tiered architecture for K8 and ArgoCD showcase. 
 The PresentationTier manages user interactions, the BusinessTier handles joke fetching and processing
 and the DatabaseTier ensures a comprehensive repository for joke storage and retrieval. 
+- [ImageSharingPlatform](https://github.com/kozraf/ImageSharingPlatform) Another fun small project that utilises Lambdas + S3 + Jenkins + Terraform for serverless approach. The ImageSharingPlatform is a dedicated platform that facilitates the sharing and viewing of images. 
+Developed as a web-based application, it's built on a multi-tier architecture and leverages AWS resources for efficient storage and retrieval 
+of images. The platform ensures a user-friendly interface and smooth navigation, allowing users to easily upload and access shared images. 
+With a focus on security and performance, it offers a reliable and intuitive image-sharing experience.
 
 
 ## 🔧 Key Skills
