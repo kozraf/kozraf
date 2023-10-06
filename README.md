@@ -31,7 +31,7 @@ and features, such as the K8 Metrics Server, K8 Dashboard and NFS shared storage
 The project seamlessly integrates Vagrant and VirtualBox for local VM provisioning and boasts an array of scripts to simplify the setup process.
 A unique aspect of this project is its "wrapper" (setup.bat/setup.sh files) which not only manages Vagrant but also permits the deployment of various 
 DevOps components from my associated repositories - such as Jenkins_with_Terrafform / ArgoCD / Grafana & Prometheus etc.
-- [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF): Deploy Jenkins integrated with Terraform on a Kubernetes cluster.
+- [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF): Deploy Jenkins integrated with Terraform on a Kubernetes cluster that also utilises NFS storage.
 - [TFstate_secure](https://github.com/kozraf/TFstate_secure) If you require a Terraform remote backend that utilizes AWS S3 + DynamoDB, look no further! All you need is Jenkins with Terraform installed. If you don't have one, please check out my [Jenkins with Terraform on Kubernetes](https://github.com/kozraf/Jenkins_with_TF) !
 - [ArgoCD](https://github.com/kozraf/ArgoCD): This repository focuses on facilitating the setup of ArgoCD on a Kubernetes cluster. ArgoCD, a declarative, GitOps continuous delivery tool for Kubernetes, empowers users to manage Kubernetes resources with git repositories as the primary source of truth. The project offers:
   - **Easy Deployment**: Streamlined setup of ArgoCD.
