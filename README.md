@@ -56,7 +56,7 @@ With a focus on security and performance, it offers a reliable and intuitive ima
 
 ### **Operating Systems**
 - Windows / Linux
-- **DevOps/SRE/Platform Engineering**:
+### **DevOps/SRE/Platform Engineering**:
 - Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="k8.png" /></a>
 - Docker <a href="https://www.docker.com/" title="Docker"><img src="docker.png" /></a>
 - ArghoCD <a href="https://argo-cd.readthedocs.io/" title="argo-cd"><img src="argocd.png" /></a>
