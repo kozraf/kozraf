@@ -54,11 +54,28 @@ With a focus on security and performance, it offers a reliable and intuitive ima
 
 ## 🔧 Key Skills
 
-- **Operating Systems** Windows / Linux
-- **DevOps/SRE/Platform Engineering**: Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="k8.png" /></a> , Docker <a href="https://www.docker.com/" title="Docker"><img src="docker.png" /></a>, ArghoCD <a href="https://argo-cd.readthedocs.io/" title="argo-cd"><img src="argocd.png" /></a>, Helm <a href="https://helm.sh/" title="helm"><img src="helm.png" /></a>,Terraform, Ansible, Jenkins, Git, CI/CD pipelines
-- **Cloud Platforms**: AWS, Azure
-- **Infrastructure as Code & Automation**: Terraform, Ansible 
-- **Scripting**: Powershell, Bash, Python <a href="https://www.python.org/" title="python"><img src="python.png" /></a>
+- **Operating Systems**
+- Windows / Linux
+- **DevOps/SRE/Platform Engineering**:
+- Kubernetes <a href="https://kubernetes.io/" title="kubernetes"><img src="k8.png" /></a>
+- Docker <a href="https://www.docker.com/" title="Docker"><img src="docker.png" /></a>
+- ArghoCD <a href="https://argo-cd.readthedocs.io/" title="argo-cd"><img src="argocd.png" /></a>
+- Helm <a href="https://helm.sh/" title="helm"><img src="helm.png" /></a>
+- Terraform
+- Ansible
+- Jenkins
+- Git
+- CI/CD pipelines
+- **Cloud Platforms**:
+- AWS
+- Azure
+- **Infrastructure as Code & Automation**:
+- Terraform
+- Ansible 
+- **Scripting**:
+- Powershell
+- Bash
+- Python <a href="https://www.python.org/" title="python"><img src="python.png" /></a>
 
 ## 🎓 Certifications & Courses
 
